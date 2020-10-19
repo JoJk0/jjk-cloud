@@ -1,0 +1,7 @@
+{
+  "name": "jjk-cloud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
